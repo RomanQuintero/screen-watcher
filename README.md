@@ -2,6 +2,12 @@
 
 A local desktop application that periodically observes the screen, detects visual changes, and builds a semantic history of the user's activity. It does not act on the desktop, use cloud services, or store data in a database.
 
+## Demo
+
+![Screen Watcher running locally](docs/screen-watcher.png)
+
+*Screen Watcher detecting semantic activity changes across Windows, Microsoft Edge, YouTube and Steam.*
+
 ## Journey
 
 The project began as a prototype for benchmarking Qwen3-VL inference on screen captures using DXcam. Tests were run with Qwen3-VL 2B, 4B, and 8B on an NVIDIA RTX 3090; the 2B model provided the most practical initial balance of latency and VRAM usage.

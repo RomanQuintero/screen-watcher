@@ -1,9 +1,9 @@
 {
-  "model_name": "Qwen/Qwen3-VL-2B-Instruct",
+  "model_name": "Qwen/Qwen3-VL-4B-Instruct",
   "capture_interval_seconds": 2.0,
   "target_size": [
-    1024,
-    576
+    1920,
+    1080
   ],
   "max_new_tokens": 64,
   "thumbnail_size": [
