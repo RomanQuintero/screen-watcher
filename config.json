@@ -1,0 +1,18 @@
+{
+  "model_name": "Qwen/Qwen3-VL-2B-Instruct",
+  "capture_interval_seconds": 2.0,
+  "target_size": [
+    1024,
+    576
+  ],
+  "max_new_tokens": 64,
+  "thumbnail_size": [
+    320,
+    180
+  ],
+  "mean_difference_threshold": 7.0,
+  "pixel_difference_threshold": 25,
+  "changed_ratio_threshold": 0.08,
+  "confirmations_required": 2,
+  "warmup_seconds": 1.0
+}

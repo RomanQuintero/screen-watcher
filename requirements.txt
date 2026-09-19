@@ -1,0 +1,5 @@
+dxcam
+opencv-python
+Pillow
+torch
+transformers
